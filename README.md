@@ -75,8 +75,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ---
 
-Feel free to customize this README file to match the structure and details that you prefer. Make sure to replace placeholders like `your-username` with your actual username or organization name.
